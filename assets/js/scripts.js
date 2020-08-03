@@ -84,7 +84,7 @@ $(window).on('load', function() {
 	--------------------*/
 	if($('#typed-text').length > 0 ) {
 		var typed2 = new Typed('#typed-text', {
-		   	strings: ["Galih Sukristyan Saputra", "Professional Website Developer" , "Part of SMK Telkom Banjarbaru'22"],
+		   	strings: ["Anjay Portable Putra", "Professional Website Developer" , "Part of SMK Portable Semarang'62"],
 			typeSpeed: 75,
 			loop:true,
 			backDelay: 2000
@@ -96,7 +96,7 @@ $(window).on('load', function() {
 	--------------------*/
 	if($('#typed-text2').length > 0 ) {
 		var typed2 = new Typed('#typed-text2', {
-		   	strings: ["Work for the best", "Based on Banjarbaru, Indonesia" ],
+		   	strings: ["Work for the best", "Based on Semarang, Indonesia" ],
 			typeSpeed: 80,
 			loop:true,
 			backDelay: 2000
