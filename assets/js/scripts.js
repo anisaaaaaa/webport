@@ -84,7 +84,7 @@ $(window).on('load', function() {
 	--------------------*/
 	if($('#typed-text').length > 0 ) {
 		var typed2 = new Typed('#typed-text', {
-		   	strings: ["Anjay Portable Putra", "Professional Website Developer" , "Part of SMK Portable Semarang'62"],
+		   	strings: ["Anjay Portable Putra", "Professional Website Developer" , "Part of SMK Portable Semarang'82"],
 			typeSpeed: 75,
 			loop:true,
 			backDelay: 2000
